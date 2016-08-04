@@ -1,5 +1,5 @@
-# Bootstrap-Autocompletion-in-Notepadplusplus
-Bootstrap-Code-Hinting-and-Autocompletion-in-Notepad++
+
+<h1>Bootstrap-Code-Hinting-and-Autocompletion-in-Notepad++</h1>
 <h1>Instalization</h1>
 <ul>
 <li>Download the file <code>html.xml</code></li>
